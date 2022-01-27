@@ -1,4 +1,4 @@
-## Olá internet, eu sou o 𝖆𝖇𝖗𝖎𝖈𝖎𝖔𝖋 😁😁
+<!-- ## Olá internet, eu sou o 𝖆𝖇𝖗𝖎𝖈𝖎𝖔𝖋 😁😁 -->
 
 <div>
  
