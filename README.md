@@ -1,6 +1,8 @@
 <!-- ## Olá internet, eu sou o 𝖆𝖇𝖗𝖎𝖈𝖎𝖔𝖋 😁😁 -->
 
-
+<!-- <h1>𝖆𝖇𝖗𝖎𝖈𝖎𝖔𝖋<h1/> -->
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abriciof/)](https://www.linkedin.com/in/abriciof/)
 
 
 <p align="center">
@@ -25,6 +27,12 @@
   <img align="center" alt="fafa-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="fafa-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="fafa-slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+<!--   <img align="center" alt="fafa-slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> -->
+
+
+ 
+
+
 
 <!-- </div> -->
 </p>
