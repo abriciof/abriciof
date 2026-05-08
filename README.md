@@ -73,6 +73,17 @@ Plataforma voltada para aprendizado e simulação de experimentos físicos, com 
 ### [sistema-neuro-simbolico](https://github.com/abriciof/sistema-neuro-simbolico)
 Implementação ligada a **aprendizagem relacional** e **sistemas neuro-simbólicos**, unindo pesquisa e IA.
 
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=abriciof&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub commit streak" />
+</div>
+
+## Atividade de contribuições
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abriciof&bg_color=00000000&color=e5e7eb&line=38bdf8&point=7dd3fc&area=true&area_color=0ea5e9&title_color=f8fafc&hide_border=true" alt="GitHub activity graph" />
+</div>
 
 ## Atualmente focado em
 
